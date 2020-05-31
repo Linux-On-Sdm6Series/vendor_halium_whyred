@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/halium/whyred/proprietary/etc/init/dpmd.rc:system/etc/init/dpmd.rc \
     vendor/halium/whyred/proprietary/etc/init/wfdservice.rc:system/etc/init/wfdservice.rc \
 #     vendor/halium/whyred/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
-    vendor/halium/whyred/proprietary/etc/permissions/com.qti.dpmframework.xml:system/etc/permissions/com.qti.dpmframework.xml \
+#     vendor/halium/whyred/proprietary/etc/permissions/com.qti.dpmframework.xml:system/etc/permissions/com.qti.dpmframework.xml \
 #     vendor/halium/whyred/proprietary/etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml:system/etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml \
 #     vendor/halium/whyred/proprietary/etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml:system/etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml \
 #     vendor/halium/whyred/proprietary/etc/permissions/com.qualcomm.qti.imscmservice.xml:system/etc/permissions/com.qualcomm.qti.imscmservice.xml \
@@ -38,10 +38,10 @@ PRODUCT_COPY_FILES += \
 #     vendor/halium/whyred/proprietary/etc/permissions/dpmapi.xml:system/etc/permissions/dpmapi.xml \
 #     vendor/halium/whyred/proprietary/etc/permissions/embms.xml:system/etc/permissions/embms.xml \
 #     vendor/halium/whyred/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/halium/whyred/proprietary/etc/permissions/qti_libpermissions.xml:system/etc/permissions/qti_libpermissions.xml \
-    vendor/halium/whyred/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
+#     vendor/halium/whyred/proprietary/etc/permissions/qti_libpermissions.xml:system/etc/permissions/qti_libpermissions.xml \
+#     vendor/halium/whyred/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
 #     vendor/halium/whyred/proprietary/etc/permissions/telephonyservice.xml:system/etc/permissions/telephonyservice.xml \
-#     vendor/halium/whyred/proprietary/etc/wfdconfig.xml:system/etc/wfdconfig.xml \
+    vendor/halium/whyred/proprietary/etc/wfdconfig.xml:system/etc/wfdconfig.xml \
     vendor/halium/whyred/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
 #     vendor/halium/whyred/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
 #     vendor/halium/whyred/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
